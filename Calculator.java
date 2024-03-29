@@ -1,6 +1,6 @@
 public class Calculator {
     public static void main(String[] args) {
-     /*   int a=12;
+       int a=12;
         int b=2;
         int add=a+b;
         System.out.println(add);
@@ -10,7 +10,7 @@ public class Calculator {
         System.out.println(mult);
         int div=a/b;
         System.out.println(div);
-     */
+     
   
     }
     
